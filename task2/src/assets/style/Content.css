@@ -1,0 +1,27 @@
+.content {
+    background-image: url(../images/eth.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: start;
+    align-items: start;
+    padding: 13% 0 13% 13%;
+}
+
+.content em {
+    font-size: 50px;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.content p {
+    font-weight: 700;
+}
+
+.content .btn {
+    letter-spacing: 1px;
+    font-weight: 700;
+    border-radius: 0;
+    border: none;
+    padding: 10px;
+}

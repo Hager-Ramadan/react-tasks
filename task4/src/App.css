@@ -1,0 +1,16 @@
+a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+        transition: .3s ease-in-out;
+
+}
+a:hover{
+    color:beige;
+    transition: .3s ease-in-out;
+}
+.navbar{
+    gap:3rem;
+    background-color: #3d3d3d;
+}
+

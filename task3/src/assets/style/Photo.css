@@ -1,0 +1,18 @@
+.image {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.image img {
+    border-radius: 61%;
+    width: 83%;
+}
+
+.image em {
+    font-size: 30px;
+    color: #e35a00;
+    font-weight: 700;
+}

@@ -1,0 +1,25 @@
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+}
+
+ul li {
+    padding: 25px;
+    cursor: pointer;
+}
+
+ul>li:hover{
+    color: #f4cab6;
+    transition: .3s;
+}
+
+.nav_bar {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,25 @@
+.card_product {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    padding: 30px;
+    transition: .3s linear;
+
+    p {
+        font-size: 12px;
+        color: #abb8c3;
+    }
+
+    span {
+        font-size: 20px;
+    }
+}
+
+.card_product:hover {
+    box-shadow: 0 0px 24px 0 rgb(0 0 0 / 10%);
+    border-radius: 20px;
+    transition: .3s linear;
+    transform: translateY(-25px);
+}

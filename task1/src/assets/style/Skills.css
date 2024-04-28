@@ -1,0 +1,9 @@
+.content_skills {
+    background-color: #8e6df9;
+    color: #fff;
+    padding: 65px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

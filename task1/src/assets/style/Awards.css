@@ -1,0 +1,9 @@
+.content_awards {
+    background-color: transparent;
+    color: #111111;
+    padding: 65px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
